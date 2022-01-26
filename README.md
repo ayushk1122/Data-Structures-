@@ -1,2 +1,2 @@
 # Data-Structures-
-Full Data Structures HW and Lab Code
+Hi this is my personal repository for all my Data Structures coursework. You may be viewing this through my public access token listed on my resume. This coursework is committed here not only for a backup, but for those who may be wanting to see my code for this course. Please do not distribute this access token around as it is purely made for those viewing my resume for professional purposes. This course was dont entirely in C++ and I used visual studio for my IDE. 
