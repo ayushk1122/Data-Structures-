@@ -1,0 +1,44 @@
+Received new order #212 due in 30 minute(s):
+  extra-large-pepperoni
+Received new order #5 due in 35 minute(s):
+  small-cheese
+Received new order #7 due in 10 minute(s):
+  extra-large-pepperoni
+  extra-large-pepperoni
+  extra-large-pepperoni
+  extra-large-pepperoni
+  small-cheese
+Received new order #300 due in 1 minute(s):
+  small-cheese
+Printing 4 order(s) by promised time remaining:
+  #300 (1 minute(s) left):
+    small-cheese
+  #7 (10 minute(s) left):
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    small-cheese
+  #212 (30 minute(s) left):
+    extra-large-pepperoni
+  #5 (35 minute(s) left):
+    small-cheese
+Printing 4 order(s) by ID:
+  #5 (35 minute(s) left):
+    small-cheese
+  #7 (10 minute(s) left):
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    extra-large-pepperoni
+    small-cheese
+  #212 (30 minute(s) left):
+    extra-large-pepperoni
+  #300 (1 minute(s) left):
+    small-cheese
+Cooking new extra-large-sausage with 4 minute(s) left.
+Cooking new extra-large-pepperoni with 2 minute(s) left.
+Cooking new small-cheese with 2 minute(s) left.
+Cooking new large-pineapple with 1 minute(s) left.
+Cooking new extra-large-pepperoni with 4 minute(s) left.
+===Starting run of 8 minute(s)===

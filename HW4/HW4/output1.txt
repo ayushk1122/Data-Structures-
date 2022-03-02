@@ -1,0 +1,13 @@
+Received new order #300 due in 15 minute(s):
+  small-cheese
+Running until next event.
+Running until next event.
+Received new order #302 due in 100 minute(s):
+  small-cheese
+Received new order #301 due in 15 minute(s):
+  small-cheese
+Received new order #303 due in 0 minute(s):
+  small-cheese
+Cooking new small-cheese with 25 minute(s) left.
+===Starting run of 50 minute(s)===
+===Starting run of 50 minute(s)===
